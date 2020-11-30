@@ -1,0 +1,7 @@
+{
+  "EVENT_SOURCE_URL": "https://stream.wikimedia.org/v2/stream/mediawiki.revision-create",
+  "SLACK_WEBHOOK_URL": "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX",
+  "WATCHED_PAGE_URLS": [
+    "https://en.wikipedia.org/wiki/Douglas_Adams"
+  ]
+}
