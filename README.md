@@ -2,6 +2,8 @@
 
 A simple Slack bot for providing notifications of page revisions on the [Wikimedia projects](https://www.wikimedia.org/).
 
+![wiki-watcher in action](assets/iha.png)
+
 ## Quick start
 
 1. Create a Slack app and an Incoming Webhook in your Slack workspace as described [here](https://api.slack.com/messaging/webhooks)
